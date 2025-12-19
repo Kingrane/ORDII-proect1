@@ -9,5 +9,7 @@
 3.  Публикация проекта на GitHub
 
 Был загружен датасет в формате csv и проведен его анализ, с графиками
-Также были сделаны визуализации в yandex data lens. (https://datalens.yandex/0ksxvwe6sop2l)
-В общем все хорошо
+Также были сделаны визуализации в yandex data lens. <b>(https://datalens.yandex/0ksxvwe6sop2l)</b>
+В общем все хорошо <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="40" height="40"/>
+
+<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" width="400" height="400"/>
