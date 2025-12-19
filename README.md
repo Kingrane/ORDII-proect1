@@ -1,5 +1,5 @@
 # ORDII-proect1
-Моя тема: 1. Поведение покупателей
+Моя тема: 1. Поведение покупателей <img src="https://cultofthepartyparrot.com/parrots/hd/christmasparrot.gif" width="40" height="40"/>
 ---
 Проект представляет собой исследование данных о поведении покупателей на основе датасета.
 
