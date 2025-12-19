@@ -1,7 +1,7 @@
 # ORDII-proect1
 Моя тема: 1. Поведение покупателей <img src="https://cultofthepartyparrot.com/parrots/hd/christmasparrot.gif" width="40" height="40"/>
 ---
-Проект представляет собой исследование данных о поведении покупателей на основе датасета.
+Проект представляет собой исследование данных о поведении покупателей на основе датасета. <img src="https://cultofthepartyparrot.com/guests/hd/partypear.gif" width="40" height="40"/>
 
 **Цель:**
 1.  Анализ данных в Python (pandas и numpy)
