@@ -8,7 +8,7 @@
 2.  Аналитика в Yandex DataLens
 3.  Публикация проекта на GitHub
 
-Был загружен датасет в формате csv и проведен его анализ, с графиками
+Был загружен датасет в формате csv и проведен его анализ, с графиками<br>
 Также были сделаны визуализации в yandex data lens. (https://datalens.yandex/0ksxvwe6sop2l)<br>
 В общем все хорошо <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="40" height="40"/>
 
